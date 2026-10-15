@@ -1,8 +1,8 @@
-# Location Paris
+﻿# Location Paris
 
 Professional frontend landing page for **TABON MK**, featuring the track **Li 3yan**.
 
-Live: https://tabon-mk.vercel.app/
+Live: https://location-paris-psi.vercel.app
 
 ## Stack
 
